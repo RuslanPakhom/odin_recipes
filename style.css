@@ -1,0 +1,22 @@
+img{
+    width:500px;
+    height:auto;
+}
+
+.description{
+    font-size:12px;
+    background-color: aquamarine;
+}
+
+a{
+    color:chocolate
+}
+
+.ingridients, .notes{
+    background-color:yellow;
+    color:darkseagreen;
+}
+
+.steps{
+    background-color: darkseagreen;
+}
